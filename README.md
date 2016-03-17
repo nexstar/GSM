@@ -21,18 +21,18 @@ GSM被設計具有中等安全水平。系統設計使用共享金鑰使用者�
 
 # Server #
 
-Server執行時,系統會一直等待**Client**給予**Server**訊號,此訊號傳入Server時會分類為三類
+執行時,系統會一直等待**Client**給予**Server**訊號,此訊號傳入Server時會分類為三類
 
 1. 群組:<br>
-Server會利用此方式,檢測Client傳入的群組是否與Access內部資料為真，<br>
-如為真Server會依照順序發送名單，如為否系統會自動刪除此訊息。
+檢測Client傳入的群組是否與Access內部群組相同，<br>
+如為真將會依照順序發送名單，如為否系統會自動刪除此訊息。
 
 2. 電話:<br>
-Server會利用此方式,檢測Client傳入的電話號碼是否與Access內部資料為真，<br>
-如為真Server會發送名單，如為否系統會自動刪除此訊息。
+檢測Client傳入的電話號碼是否與Access內部電話相同，<br>
+如為真將立即發送此號碼，如為否系統會自動刪除此訊息。
 
 3. IP:<br>
-Server接收到Client訊號時，如IP非Access中就無法進入**群組**或**電話**類別。
+Server接收到Client訊號時，如IP非Access中名單就無法進入**群組**或**電話**類別。
 
 ## Server執行步驟
 
@@ -42,7 +42,7 @@ Server接收到Client訊號時，如IP非Access中就無法進入**群組**或**
 
 # Client #
 
-Client執行方式為使用命令提示(CMD) 做為傳送並且帶參數，參數種類為以下四選一
+執行方式為使用命令提示(CMD) 做為傳送並且帶參數，參數種類為以下四選一
 
 1. Phone
 
