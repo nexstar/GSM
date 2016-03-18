@@ -23,16 +23,17 @@ GSM被設計具有中等安全水平。系統設計使用共享金鑰使用者�
 
 執行時,系統會一直等待**Client**給予**Server**訊號,此訊號傳入Server時會分類為三類
 
+1. IP:<br>
+Server接收到Client訊號時，如IP非Access中名單就無法進入**群組**或**電話**類別。
+
 1. 群組:<br>
 檢測Client傳入的群組是否與Access內部群組相同，<br>
 如為真將會依照順序發送名單，如為否系統會自動刪除此訊息。
 
-2. 電話:<br>
+1. 電話:<br>
 檢測Client傳入的電話號碼是否與Access內部電話相同，<br>
 如為真將立即發送此號碼，如為否系統會自動刪除此訊息。
 
-3. IP:<br>
-Server接收到Client訊號時，如IP非Access中名單就無法進入**群組**或**電話**類別。
 
 ## Server執行步驟
 
@@ -44,13 +45,15 @@ Server接收到Client訊號時，如IP非Access中名單就無法進入**群組*
 
 執行方式為使用命令提示(CMD) 做為傳送並且帶參數，參數種類為以下四選一
 
-1. Phone
+1. Phone_"Text Massage"
 
-2. Phone,Group
+2. Phone,Group_"Text Massage"
 
-3. Group,Group
+3. Group,Group_"Text Massage"
 
-4. Group
+4. Group_"Text Massage"
+
+註解:底線為空白
 
 除以上也可依照您的方式搭配參數,以上四種為基本參數，請務必記得如參數為一個以上請在後方加入逗點。
 
