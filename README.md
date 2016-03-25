@@ -59,9 +59,14 @@ Server接收到Client訊號時，如IP非Access中名單就無法進入**群組*
 
 ## Client執行步驟
 
-1. 圖片:	 
+第一步:	 
+![修改內部](https://github.com/nexstar/GSM/raw/master/Picture/ClientCode.PNG)
 
-![image](https://github.com/nexstar/GSM/blob/master/Picture/ClientCode.PNG)
+第二步: 
+![執行時輸入參數](https://github.com/nexstar/GSM/raw/master/Picture/Client1.PNG)
+
+結果:
+![示意圖](https://github.com/nexstar/GSM/raw/master/Picture/Client.PNG)
 
 # Registry #
 
