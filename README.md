@@ -69,7 +69,7 @@ SMSLOG(每次發送都會記錄LOG中):
 ### 執行畫面: ###
 
 第一畫面(此圖為選擇Modem ComPort):
-![P8](https://github.com/nexstar/GSM/raw/master/GSM_Message.PNG)
+![P8](https://github.com/nexstar/GSM/raw/master/Picture/GSM_Message.PNG)
 
 第二畫面(此圖為Client傳輸後所展現的結果):
 ![P10](https://github.com/nexstar/GSM/raw/master/Picture/Main.png)
