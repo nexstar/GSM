@@ -37,9 +37,31 @@ Server接收到Client訊號時，如IP非Access中名單就無法進入**群組*
 
 ## Server執行步驟
 
-1. 文字:
+### 圖片: ###
 
-2. 圖片:
+第一步:
+
+	
+第二步:
+
+### Access修改: ###
+
+第一步(修改內部AccessPwd):
+
+![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/ServerCode1.PNG)
+
+第二步(請先輸入預設Pwd:@1436)，未來要更換密碼請務必記得內部需更換:
+
+![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/AccessLockcode.PNG)
+
+第三步(設定群組與電話名單):
+
+![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/AddressBook.PNG)
+		
+第四步(設定受限IP，請務必記得此IP屬於可通過者):
+
+![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/IP.PNG)
+
 
 # Client #
 
@@ -59,13 +81,13 @@ Server接收到Client訊號時，如IP非Access中名單就無法進入**群組*
 
 ## Client執行步驟
 
-第一步:	 
+第一步(修改內部):	 
 ![修改內部](https://github.com/nexstar/GSM/raw/master/Picture/ClientCode.PNG)
 
-第二步: 
-![執行時輸入參數](https://github.com/nexstar/GSM/raw/master/Picture/Client1.PNG)
+第二步(執行時輸入參數示意圖): 
+![執行時輸入參數示意圖](https://github.com/nexstar/GSM/raw/master/Picture/Client1.PNG)
 
-結果:
+第三步(結果示意圖):
 ![示意圖](https://github.com/nexstar/GSM/raw/master/Picture/Client.PNG)
 
 # Registry #
