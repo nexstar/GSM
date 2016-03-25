@@ -42,10 +42,10 @@ Server接收到Client訊號時，如IP非Access中名單就無法進入**群組*
 第一步(修改內部ServerPort):
 ![P1](https://github.com/nexstar/GSM/raw/master/Picture/ServerPort.PNG)
 	
-錯誤輸出(程式錯誤時會在這呈現):
+錯誤輸出(程式錯誤時所扔出的錯誤在此保存):
 ![P2](https://github.com/nexstar/GSM/raw/master/Picture/issue_wrong.PNG)
 
-SMSLOG(每次發送都會記錄LOG中):
+SMSLOG(每次發送完畢都會在此記錄):
 ![P3](https://github.com/nexstar/GSM/raw/master/Picture/SMSlog.PNG)
 
 ### Access修改: ###
@@ -54,7 +54,7 @@ SMSLOG(每次發送都會記錄LOG中):
 
 ![P4](https://github.com/nexstar/GSM/raw/master/Picture/ServerCode1.PNG)
 
-第二步(請先輸入預設Pwd:@1436)，未來要更換密碼請務必記得內部需更換:
+第二步(請先輸入預設Pwd:@1436)，未來要[Access更換密碼](https://support.office.com/zh-hk/article/%E4%BD%BF%E7%94%A8%E8%B3%87%E6%96%99%E5%BA%AB%E5%AF%86%E7%A2%BC%E5%8A%A0%E5%AF%86%E8%B3%87%E6%96%99%E5%BA%AB-fe1cc5fe-f9a5-4784-b090-fdb2673457ab)請務必記得內部需更換:
 
 ![P5](https://github.com/nexstar/GSM/raw/master/Picture/AccessLockcode.PNG)
 
@@ -105,8 +105,10 @@ SMSLOG(每次發送都會記錄LOG中):
 
 本專案使用Registry原因為利用此方式當Server重開時會自動抓取Comport。
 
-# 資料參考 #
-[https://zh.wikipedia.org/wiki/GSM](https://zh.wikipedia.org/wiki/GSM "GSM( WIKI )")
+# Reference #
+
+- [GSM](https://zh.wikipedia.org/wiki/GSM)
+- [Microsoft Access](https://www.office.com/) 
 
 # 製作者 #
 
