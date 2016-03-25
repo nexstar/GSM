@@ -16,7 +16,7 @@ GSM被設計具有中等安全水平。系統設計使用共享金鑰使用者�
 
 # 硬體設備 #
 
-- 3G Modem x 1
+- Modem x 1
 - Sim Card x 1
 
 # Server #
@@ -39,29 +39,40 @@ Server接收到Client訊號時，如IP非Access中名單就無法進入**群組*
 
 ### 圖片: ###
 
-第一步:
-
+第一步(修改內部ServerPort):
+![P1](https://github.com/nexstar/GSM/raw/master/Picture/ServerPort.PNG)
 	
-第二步:
+錯誤輸出(程式錯誤時會在這呈現):
+![P2](https://github.com/nexstar/GSM/raw/master/Picture/issue_wrong.PNG)
+
+SMSLOG(每次發送都會記錄LOG中):
+![P3](https://github.com/nexstar/GSM/raw/master/Picture/SMSlog.PNG)
 
 ### Access修改: ###
 
 第一步(修改內部AccessPwd):
 
-![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/ServerCode1.PNG)
+![P4](https://github.com/nexstar/GSM/raw/master/Picture/ServerCode1.PNG)
 
 第二步(請先輸入預設Pwd:@1436)，未來要更換密碼請務必記得內部需更換:
 
-![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/AccessLockcode.PNG)
+![P5](https://github.com/nexstar/GSM/raw/master/Picture/AccessLockcode.PNG)
 
 第三步(設定群組與電話名單):
 
-![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/AddressBook.PNG)
+![P6](https://github.com/nexstar/GSM/raw/master/Picture/AddressBook.PNG)
 		
 第四步(設定受限IP，請務必記得此IP屬於可通過者):
 
-![AccessPwd](https://github.com/nexstar/GSM/raw/master/Picture/IP.PNG)
+![P7](https://github.com/nexstar/GSM/raw/master/Picture/IP.PNG)
 
+### 執行畫面: ###
+
+第一畫面(此圖為選擇Modem ComPort):
+![P8](https://github.com/nexstar/GSM/raw/master/GSM_Message.PNG)
+
+第二畫面(此圖為Client傳輸後所展現的結果):
+![P10](https://github.com/nexstar/GSM/raw/master/Picture/Main.png)
 
 # Client #
 
