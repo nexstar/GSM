@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\bin\Debug\sck-Client.exe
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\bin\Debug\sck-Client.pdb
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\obj\Debug\sck-Client.exe
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\obj\Debug\sck-Client.pdb

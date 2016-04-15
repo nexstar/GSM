@@ -1,0 +1,10 @@
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM\sck-Client\bin\Debug\sck-Client.exe
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM\sck-Client\bin\Debug\sck-Client.pdb
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM\sck-Client\obj\Debug\sck-Client.csprojResolveAssemblyReference.cache
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM\sck-Client\obj\Debug\sck-Client.exe
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM\sck-Client\obj\Debug\sck-Client.pdb
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\obj\Debug\sck-Client.exe
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\obj\Debug\sck-Client.pdb
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\bin\Debug\sck-Client.exe
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\bin\Debug\sck-Client.pdb
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\obj\Debug\sck-Client.csprojResolveAssemblyReference.cache

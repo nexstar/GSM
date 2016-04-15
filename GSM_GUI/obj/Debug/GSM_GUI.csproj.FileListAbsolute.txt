@@ -1,0 +1,47 @@
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.exe
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.pdb
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\GSMCommunication.dll
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\PDUConverter.dll
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\GSMCommShared.dll
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Form1.resources
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Properties.Resources.resources
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csproj.GenerateResource.Cache
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.exe
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.pdb
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\GSMCommShared.xml
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\GSMCommunication.xml
+C:\Users\Nian\Documents\Visual Studio 2012\Projects\GSM_GUI\GSM_GUI\bin\Debug\PDUConverter.xml
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.exe
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.pdb
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.exe
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.pdb
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSMCommShared.dll
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSMCommunication.xml
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\bin\Debug\PDUConverter.xml
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSMCommShared.xml
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Form1.resources
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Properties.Resources.resources
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csproj.GenerateResource.Cache
+C:\Users\Nian\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Form2.resources
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.exe.config
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.exe
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.pdb
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Form1.resources
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Form2.resources
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.exe
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.pdb
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.exe.config
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.exe
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.pdb
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.exe
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\bin\Debug\GSM_GUI.pdb
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Form1.resources
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Form2.resources
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.Properties.Resources.resources
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.csproj.GenerateResource.Cache

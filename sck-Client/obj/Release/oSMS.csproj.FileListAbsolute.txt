@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\bin\Release\sck-Client.exe
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\bin\Release\sck-Client.pdb
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\obj\Release\sck-Client.exe
+C:\Users\Administrator\Desktop\GSM_GUI\sck-Client\obj\Release\sck-Client.pdb
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\sck-Client\obj\Release\sck-Client.exe
+C:\Users\Nian\Desktop\Git收集\GSM_GUI\sck-Client\obj\Release\sck-Client.pdb

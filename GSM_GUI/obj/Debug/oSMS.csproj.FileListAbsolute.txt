@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.exe
+C:\Users\Administrator\Desktop\GSM_GUI\GSM_GUI\obj\Debug\GSM_GUI.pdb
