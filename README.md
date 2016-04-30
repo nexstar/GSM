@@ -112,5 +112,5 @@ SMSLOG(每次發送完畢都會在此記錄):
 
 # 製作者 #
 
-NianBaoZou	( nexstar@gmail.com )<br>
+NianBaoZou	( nexstar1436@gmail.com )<br>
 3/17/2016 3:29:41 PM 
